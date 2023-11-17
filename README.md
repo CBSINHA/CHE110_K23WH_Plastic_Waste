@@ -1,2 +1,3 @@
 # CHE110_K23WH_Plastic_Waste
- A Website by Shashank SInha
+Open in any Pc/Laptop Browser to view as a Webpage
+A Website created by Shashank Sinha.
